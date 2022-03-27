@@ -1,4 +1,7 @@
 
+#include <array>
+using namespace std;
+
 /*
 ArrayReader's API interface is for information only.
 It is implemented internally on leetcome.com and should
